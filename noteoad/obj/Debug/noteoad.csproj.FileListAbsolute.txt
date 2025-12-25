@@ -1,0 +1,10 @@
+D:\c#\noteoad\noteoad\bin\Debug\noteoad.exe.config
+D:\c#\noteoad\noteoad\bin\Debug\noteoad.exe
+D:\c#\noteoad\noteoad\bin\Debug\noteoad.pdb
+D:\c#\noteoad\noteoad\obj\Debug\noteoad.csproj.AssemblyReference.cache
+D:\c#\noteoad\noteoad\obj\Debug\noteoad.Form1.resources
+D:\c#\noteoad\noteoad\obj\Debug\noteoad.Properties.Resources.resources
+D:\c#\noteoad\noteoad\obj\Debug\noteoad.csproj.GenerateResource.cache
+D:\c#\noteoad\noteoad\obj\Debug\noteoad.csproj.CoreCompileInputs.cache
+D:\c#\noteoad\noteoad\obj\Debug\noteoad.exe
+D:\c#\noteoad\noteoad\obj\Debug\noteoad.pdb

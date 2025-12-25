@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\noteoad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9868D7-179F-465A-A925-230FE73F0C07}|noteoad\\noteoad.csproj|d:\\c#\\noteoad\\noteoad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9868D7-179F-465A-A925-230FE73F0C07}|noteoad\\noteoad.csproj|solutionrelative:noteoad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9868D7-179F-465A-A925-230FE73F0C07}|noteoad\\noteoad.csproj|d:\\c#\\noteoad\\noteoad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF9868D7-179F-465A-A925-230FE73F0C07}|noteoad\\noteoad.csproj|solutionrelative:noteoad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\c#\\noteoad\\noteoad\\Form1.cs",
+              "RelativeDocumentMoniker": "noteoad\\Form1.cs",
+              "ToolTip": "D:\\c#\\noteoad\\noteoad\\Form1.cs",
+              "RelativeToolTip": "noteoad\\Form1.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAqwL4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:04:49.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\noteoad\\noteoad\\Form1.cs",
+              "RelativeDocumentMoniker": "noteoad\\Form1.cs",
+              "ToolTip": "D:\\c#\\noteoad\\noteoad\\Form1.cs [Design]",
+              "RelativeToolTip": "noteoad\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:01:19.944Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
